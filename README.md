@@ -30,18 +30,21 @@
   <a href="mailto:secops@odfsec.org" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-<a href="https://odfsec.org">
-    <img src="https://img.shields.io/website?down_color=%23FF0000&down_message=OFFLINE&label=ODFSEC%20Website&logo=webflow&logoColor=%23FF0000&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fodfsec.org">
+  
+  <br>
+  <br>
+  
+  <a href="https://odfsec.org">
+    <img src="https://img.shields.io/website?down_color=%23FF0000&down_message=OFFLINE&label=ODFSEC%20Website%20Status&logo=webflow&logoColor=%23FF0000&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.odfsec.org">
 </a> 
 <br>
 <a href="https://github.com/odf-community/BlackBox/releases">
-    <img src="https://img.shields.io/github/v/release/odf-community/BlackBox?display_name=release&label=BlackBox%20%28Community%29&logo=github&logoColor=%23FF0000">
+    <img src="https://img.shields.io/github/v/release/odf-community/BlackBox?display_name=release&label=BlackBox&logo=github&logoColor=%23FF0000&style=for-the-badge">
 </a>
 <br>
 <a href="https://github.com/odf-community/ASADT/releases">
-    <img src="https://img.shields.io/github/v/release/odf-community/ASADT?display_name=release&label=Assistive%20Search%20And%20Discovery%20Tool&logo=github&logoColor=%23FF0000">
+    <img src="https://img.shields.io/github/v/release/odf-community/ASADT?display_name=release&label=ASADT&logo=github&logoColor=%23FF0000&style=for-the-badge">
 </a> 
+</div>
 
 ###

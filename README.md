@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/github/v/release/odf-community/ASADT?display_name=release&label=ASADT&logo=github&logoColor=%23FF0000&style=for-the-badge">
 </a> 
 <br>
-<a href="https://github.com/odf-community/ASADT/releases">
+<a href="https://github.com/odf-community/ASADT3/releases">
     <img src="https://img.shields.io/github/v/release/odf-community/ASADT3?display_name=tag&include_prereleases&label=ASADT3&logo=github&logoColor=%23FF0000&style=for-the-badge">
 </a>
 
